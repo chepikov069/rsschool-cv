@@ -14,7 +14,7 @@ Good afternoon! I am a beginner frontend developer. I work well in a company. I 
 ***
 
 #### **Skill and Proficiency**  
-* HTML  
+* HTML basic
 * Javascript basic  
 * Git, Github  
 
